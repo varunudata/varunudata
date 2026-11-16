@@ -205,12 +205,12 @@ def build_portfolio_card(t: dict) -> str:
             "Software Architecture",
             "DSA",
         ],
-        166,
+        186,
         624,
         944,
-        char_w=6.2,
-        pad_w=16,
-        gap=6,
+        char_w=6.75,
+        pad_w=21,
+        gap=8,
     )
 
     body = f"""

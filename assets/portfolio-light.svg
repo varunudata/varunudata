@@ -180,19 +180,19 @@
   <!-- ================= ROW 3: OTHER INTERESTS STRIP (y=608..666) ================= -->
   <line x1="2" y1="608" x2="958" y2="608" class="divider-strong"/>
   <text x="36" y="641" class="mono-acc" font-size="10" letter-spacing="1.1">03 / INTERESTS</text>
-  <rect x="166" y="624" width="53" height="26" rx="6" class="pill"/>
-  <text x="192.5" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">DevOps</text>
-  <rect x="225" y="624" width="96" height="26" rx="6" class="pill"/>
-  <text x="273.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">Generative AI</text>
-  <rect x="327" y="624" width="34" height="26" rx="6" class="pill"/>
-  <text x="344.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">RAG</text>
-  <rect x="367" y="624" width="146" height="26" rx="6" class="pill"/>
-  <text x="440.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">Codebase Intelligence</text>
-  <rect x="519" y="624" width="96" height="26" rx="6" class="pill"/>
-  <text x="567.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">System Design</text>
-  <rect x="621" y="624" width="146" height="26" rx="6" class="pill"/>
-  <text x="694.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">Software Architecture</text>
-  <rect x="773" y="624" width="34" height="26" rx="6" class="pill"/>
-  <text x="790.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">DSA</text>
+  <rect x="186" y="624" width="61" height="26" rx="6" class="pill"/>
+  <text x="216.5" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">DevOps</text>
+  <rect x="255" y="624" width="108" height="26" rx="6" class="pill"/>
+  <text x="309.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">Generative AI</text>
+  <rect x="371" y="624" width="41" height="26" rx="6" class="pill"/>
+  <text x="391.5" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">RAG</text>
+  <rect x="420" y="624" width="162" height="26" rx="6" class="pill"/>
+  <text x="501.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">Codebase Intelligence</text>
+  <rect x="590" y="624" width="108" height="26" rx="6" class="pill"/>
+  <text x="644.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">System Design</text>
+  <rect x="706" y="624" width="162" height="26" rx="6" class="pill"/>
+  <text x="787.0" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">Software Architecture</text>
+  <rect x="876" y="624" width="41" height="26" rx="6" class="pill"/>
+  <text x="896.5" y="640.5" class="mono-ink" font-size="10.8" text-anchor="middle">DSA</text>
 
 </svg>
