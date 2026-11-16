@@ -440,7 +440,7 @@ def build_work_01_hello(t: dict) -> str:
   <text x="{sx+145}" y="198" class="mono-acc" font-size="8">STAGE 02</text>
   <text x="{sx+145}" y="212" class="mono-ink" font-size="9">AST Matcher</text>
   <text x="{sx+145}" y="226" class="mono" font-size="8">Stem tokens +</text>
-  <text x="{sx+145}" y="237" class="mono" font-size="8">1-hop call graph</text>
+  <text x="{sx+145}" y="237" class="mono" font-size="8">1-hop callers</text>
 
   <line x1="{sx+242}" y1="214" x2="{sx+252}" y2="214" class="acc-stroke" marker-end="url(#arrow-acc)"/>
 
@@ -464,7 +464,7 @@ def build_work_01_hello(t: dict) -> str:
 
   <rect x="{sx+18}" y="280" width="218" height="50" class="card-box"/>
   <text x="{sx+26}" y="298" class="mono-ink" font-size="9.2">Prisma v6 + Neon PostgreSQL</text>
-  <text x="{sx+26}" y="314" class="mono" font-size="8.2">PgBouncer timeout guard + JSON mirror</text>
+  <text x="{sx+26}" y="314" class="mono" font-size="8">PgBouncer guard + local JSON mirror</text>
 
   <rect x="{sx+246}" y="280" width="224" height="50" class="card-box"/>
   <text x="{sx+254}" y="298" class="mono-ink" font-size="9.2">Next.js 16 Workspace (4 Views)</text>

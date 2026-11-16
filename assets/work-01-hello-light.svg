@@ -156,7 +156,7 @@
   <text x="601" y="198" class="mono-acc" font-size="8">STAGE 02</text>
   <text x="601" y="212" class="mono-ink" font-size="9">AST Matcher</text>
   <text x="601" y="226" class="mono" font-size="8">Stem tokens +</text>
-  <text x="601" y="237" class="mono" font-size="8">1-hop call graph</text>
+  <text x="601" y="237" class="mono" font-size="8">1-hop callers</text>
 
   <line x1="698" y1="214" x2="708" y2="214" class="acc-stroke" marker-end="url(#arrow-acc)"/>
 
@@ -180,7 +180,7 @@
 
   <rect x="474" y="280" width="218" height="50" class="card-box"/>
   <text x="482" y="298" class="mono-ink" font-size="9.2">Prisma v6 + Neon PostgreSQL</text>
-  <text x="482" y="314" class="mono" font-size="8.2">PgBouncer timeout guard + JSON mirror</text>
+  <text x="482" y="314" class="mono" font-size="8">PgBouncer guard + local JSON mirror</text>
 
   <rect x="702" y="280" width="224" height="50" class="card-box"/>
   <text x="710" y="298" class="mono-ink" font-size="9.2">Next.js 16 Workspace (4 Views)</text>
